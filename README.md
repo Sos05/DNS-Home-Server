@@ -108,4 +108,4 @@ sudo systemctl restart pihole-FTL
 
 [Lien vers la documentation de Pi-Hole](https://docs.pi-hole.net/)
 
-[Lien vers des blacklists utiles]([https://discourse.pi-hole.net/t/best-blacklists/27393](https://firebog.net/))
+[Lien vers des blacklists utiles](https://firebog.net/)
